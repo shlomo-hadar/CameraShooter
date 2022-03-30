@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/guns"
+        android:icon="@drawable/ic_gun_24"
+        android:title="@string/guns"/>
+    <item
+        android:id="@+id/scopes"
+        android:icon="@drawable/ic_scope_24"
+        android:title="@string/scopes"/>
+    <item
+        android:id="@+id/magazines"
+        android:icon="@drawable/ic_magazine_24"
+        android:title="@string/magazines"/>
+</menu>
