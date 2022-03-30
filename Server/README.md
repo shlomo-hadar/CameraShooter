@@ -10,3 +10,6 @@ python version used in the server side software development: 3.8.10
 fyi: to create a launch file fot linux launch the pyinstaller.sh file.
 
  enjoy :)
+
+
+![stack Overflow](https://clipart-best.com/img/mario/mario-clip-art-5.png)
