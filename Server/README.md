@@ -12,4 +12,4 @@ fyi: to create a launch file fot linux launch the pyinstaller.sh file.
  enjoy :)
 
 
-![stack Overflow](https://clipart-best.com/img/mario/mario-clip-art-5.png)
+![stack Overflow](https://www.pngmart.com/files/16/GTA-Game-PNG-Transparent-Image.png)
